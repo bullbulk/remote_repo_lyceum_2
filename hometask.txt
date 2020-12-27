@@ -1,1 +1,16 @@
 В конце первой строки README.md master'a содержится фрагмент "with nice buttons on his jacket (buttons branch)", которого нет в demo
+
+11 коммитов на момент написания, 12 после залива коммита с этим текстом
+
+hometask edited
+hometask added
+Merge branch 'boots_buttons'
+Merge remote-tracking branch 'origin/hat'
+Merge remote-tracking branch 'origin/buttons' into boots_buttons
+Merge remote-tracking branch 'origin/boots' into boots_buttons
+fix readme
+dots
+README added
+boots
+heat added
+init
